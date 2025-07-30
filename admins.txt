@@ -1,0 +1,6 @@
+admin|admin123
+zafar|123
+kamran|123
+Awais|Awais123
+Mehran|Mehran
+zafar|zafar123
